@@ -34,7 +34,7 @@ https://github.com/the-darkvoid/macOS-IOElectrify/releases
 ## 二、这个EFI的使用方式
 
 1. 用小兵的教程和镜像安装mac os
-> g.daliansky.net/macOS-Catalina-10.15.1-19B88-Release-version-with-Clover-5098-original-image-Double-EFI-Version.html
+> https://blog.daliansky.net/macOS-Catalina-10.15.1-19B88-Release-version-with-Clover-5098-original-image-Double-EFI-Version.html
 
 2. 下载这个efi覆盖原来的efi即可。
    这样1820A 网卡也不用折腾可。
