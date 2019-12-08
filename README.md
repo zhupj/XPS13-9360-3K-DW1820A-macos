@@ -16,8 +16,11 @@ https://github.com/the-darkvoid/XPS9360-macOS
 ### 参考2. macOS 的安装镜像，网卡的配置说明，都是参考的黑果小兵的。
 
 我这个EFI网卡用的DW1820A  ，总的来说顺利。
+
 小兵对网卡说明：
 https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.htlyhttps://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html
+
+**注意：我的1820A是买的黑果小兵测试过的，不保证其他人的1820A一定正常。**
 
 ### 参考3. macOS @xps13 9360 的安装过程参考了这个文章。
 
@@ -35,8 +38,25 @@ https://github.com/the-darkvoid/macOS-IOElectrify/releases
 
 2. 下载这个efi覆盖原来的efi即可。
    这样1820A 网卡也不用折腾可。
-   
 3.   Clover Configurator  工具。 改各种参数用的。
+
+
+
+## 三、测试使用效果
+
+1. 除了指纹识别无法使用外，其他一切正常。
+2. 随航到ipad pro正常。
+3. 正常接入蓝牙耳机
+4. 隔空投放正常
+5. 与iPhone 接力正常
+6. icloud 正常。
+7. 雷电热热拔插正常。
+
+
+
+---
+
+如果需要技术交流   qq 55258336 。
 
 
 
